@@ -6,7 +6,7 @@ namespace Sum_of_2_num
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!my nam eis abihisfsfhti");
+            Console.WriteLine("Hello World!my nam eis abihisfsfhtihihgigbrg");
         }
     }
 }
